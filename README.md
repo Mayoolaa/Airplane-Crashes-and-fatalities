@@ -36,13 +36,6 @@ The layout of this report was designed using Microsoft Power BI
 •	In addition to passenger flights, Aeroflot also committed to freight operations and serving the state through transportation and military assistance, which explains why they record a high amount of fatality
 
 
-Random facts:
-The major causes of plane crashes include;
-•	Pilot error
-•	Mechanical error
-•	Inclement weather
-•	Air traffic controller error
-Contrary to popular opinion, only 12% of plane crashes were caused by bad weather
 
 
 
